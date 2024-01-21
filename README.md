@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mdavarynejad
-- 👀 Learn more baout me on my page at http://mohsen.thegradient.io
+- 👀 Learn more about me on my page at http://mohsen.thegradient.io
 
 
 <!---
