@@ -22,6 +22,6 @@
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/scipy-grey?style=for-the-badge&logo=scipy"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/><br/>
-  <img src="https://img.shields.io/badge/databricks-777BB4?style=for-the-badge&logo=databricks"/>
+  <img src="https://img.shields.io/badge/databricks-777BB4?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/mlflow-grey?style=for-the-badge&logo=mlflow"/>
 </p>
