@@ -25,3 +25,7 @@
   <img src="https://img.shields.io/badge/databricks-777BB4?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/mlflow-grey?style=for-the-badge&logo=mlflow"/>
 </p>
+
+<p align="center">
+<img align="center" alt="GIF" src="https://github.com/mdavarynejad/mdavarynejad/blob/main/anim.gif" width="500" height="300" />
+</p>
