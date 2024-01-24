@@ -27,5 +27,5 @@
 </p>
 
 <p align="center">
-<img align="center" alt="GIF" src="https://github.com/mdavarynejad/mdavarynejad/blob/main/anim.gif" width="500" height="300" />
+<img align="center" alt="GIF" src="https://github.com/mdavarynejad/mdavarynejad/blob/main/anim.gif" width="800" height="200" />
 </p>
