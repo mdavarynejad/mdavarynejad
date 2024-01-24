@@ -3,7 +3,7 @@
 
 ### Hey there 👋
 
-🚀 On the mission to Turbocharge [https://thegradient.io|https://thegradient.io], a platform for data science and ML practitioners. At ∇ The Gradient, we love Continuous Learning, Continues Coding, and Continues Publishing (CL3CP). This is what keeps us sharp. 🚀
+🚀 On the mission to Turbocharge (https://thegradient.io)[https://thegradient.io], a platform for data science and ML practitioners. At ∇ The Gradient, we love Continuous Learning, Continues Coding, and Continues Publishing (CL3CP). This is what keeps us sharp. 🚀
 
 <p align="center">
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/mdavarynejad/mdavarynejad/main/assets/coding-freak.gif" width="500" height="300" />
